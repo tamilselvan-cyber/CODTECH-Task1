@@ -1,3 +1,6 @@
-Name: Tamil Selvan.S
-Date :09/06/2024
-Intern ID : CT4CSEH3533
+Name : TAMIL SELVAN.S
+Company: CODETECH IT SOLUTIONS
+ID : CT4CSEH3533VERIFIED
+Domain: CYBER SECURITY&ETHICAL HACKING
+Duration: JUNE 10th to JULY 10th
+Mentor: Neela Santhosh Kumar
